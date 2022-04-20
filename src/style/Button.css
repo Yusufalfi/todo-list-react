@@ -1,0 +1,22 @@
+.btn-success {
+    background: rgb(7, 230, 7);
+}
+.btn-warning {
+    background: rgb(218, 67, 7);
+}
+
+.btn-primary {
+    background: rgb(58, 135, 224);
+}
+
+.btn {
+    width: 5rem;
+    height: 1.7rem;
+    margin:0 0.2rem ;
+    border: none ;
+    color: aliceblue;
+}
+
+.btn:focus {
+    outline: none;
+}
